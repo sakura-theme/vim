@@ -42,7 +42,7 @@ endfun
 let s:syntaxes = [
         \ ["Normal", "pink", "black", "none"],
 		\ ["Comment", "grey", "none", "none"],
-        \ ["Constant", "green", "none", "none"],
+        \ ["Constant", "skyblue", "none", "none"],
         \ ["String", "green", "none", "none"],
         \ ["Character", "green", "none", "none"],
         \ ["Number", "darkpink", "none", "none"],
