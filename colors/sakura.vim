@@ -113,7 +113,7 @@ let s:syntaxes = [
 		\ ["TabLineSel", "black", "green", "none"],
 		\ ["TabLineFill", "grey", "none", "none"],
 		\ ["CursorColumn", "pink", "none", "none"],
-		\ ["CursorLine", "pink", "none", "none"],
+		\ ["CursorLine", "none", "bblack", "none"],
 		\ ["ColorColumn", "pink", "none", "none"],
 		\ ["QuickFixLine", "skyblue", "none", "none"],
 		\ ["StatusLineTerm", "pink", "none", "none"],
@@ -125,4 +125,3 @@ let s:syntaxes = [
 for syntax in s:syntaxes
         call s:SetColor(syntax[0], syntax[1], syntax[2], syntax[3])
 endfor
-
