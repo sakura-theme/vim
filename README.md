@@ -7,6 +7,6 @@ Example (Vundle):
    
 Put this in your ```.vimrc```.
 ```
-Plugin 'nono-n1i/sakura'
+Plugin '/sakura'
 ```
 Launch vim and run ```:PluginInstall```.
