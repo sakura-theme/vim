@@ -7,6 +7,6 @@ Example (Vundle):
    
 Put this in your ```.vimrc```.
 ```
-Plugin '/sakura'
+Plugin 'is-hoku/sakura'
 ```
 Launch vim and run ```:PluginInstall```.
