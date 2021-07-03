@@ -11,7 +11,7 @@ let s:palette = {
         \ "white": {"gui": "#ffffd7", "cterm": "230"},
         \ "blue": {"gui": "#87afff", "cterm": "111"},
         \ "grey": {"gui": "#808080", "cterm": "NONE"},
-		\ "bblack": {"gui": "#3a3a3a", "cterm": "237"},
+		\ "bblack": {"gui": "655e66", "cterm": "NONE"},
         \ "green": {"gui": "#afd7af", "cterm": "151"},
         \ "purple": {"gui": "#af87d7", "cterm": "140"},
         \ "deeppink": {"gui": "#ff87ff", "cterm": "213"},
