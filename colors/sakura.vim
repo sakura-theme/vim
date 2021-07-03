@@ -7,10 +7,10 @@ endif
 
 let s:palette = {
         \ "pink": {"gui": "#ffd7ff", "cterm": "225"},
-        \ "black": {"gui": "#3f3740", "cterm": "235"},
+        \ "black": {"gui": "#3f3740", "cterm": "NONE"},
         \ "white": {"gui": "#ffffd7", "cterm": "230"},
         \ "blue": {"gui": "#87afff", "cterm": "111"},
-        \ "grey": {"gui": "#444444", "cterm": "245"},
+        \ "grey": {"gui": "#808080", "cterm": "NONE"},
 		\ "bblack": {"gui": "#3a3a3a", "cterm": "237"},
         \ "green": {"gui": "#afd7af", "cterm": "151"},
         \ "purple": {"gui": "#af87d7", "cterm": "140"},
