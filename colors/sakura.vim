@@ -80,7 +80,7 @@ let s:syntaxes = [
 		\ ["Directory", "lightpink", "none", "none"],
 		\ ["ErrorMsg", "red", "none", "bold,underline"],
 		\ ["IncSearch", "black", "gold", "none"],
-		\ ["Search", "black", "red", "none"],
+		\ ["Search", "black", "pink", "none"],
 		\ ["MoreMsg", "blue", "none", "bold"],
 		\ ["LineNr", "grey", "none", "none"],
 		\ ["CursorLineNr", "pink", "bblack", "none"],
