@@ -1,16 +1,16 @@
 let s:p = {'normal': {}, 'inactive': {}, 'insert': {}, 'replace': {}, 'visual': {}, 'tabline': {}}
 
-let s:dark		= [ '#2a2426', 235 ]
-let s:darker	= [ '#1c1a1a', 236 ]
-let s:darkgrey	= [ '#242021', 240 ]
-let s:red		= [ '#d75f5f', 167 ]
-let s:green		= [ '#afd7af', 151 ]
-let s:orange	= [ '#ff875f', 209 ]
-let s:golden	= [ '#d8caac', 223 ]
-let s:red_fg	= [ '#d75f5f', 167 ]
-let s:deeppink	 = [ '#ff87ff', 213 ]
-let s:pink		= [ '#ffd7ff', 225 ]
-let s:purple	= [ '#af87d7', 140 ]
+let s:dark      = [ '#2a2426', 235 ]
+let s:darker    = [ '#1c1a1a', 236 ]
+let s:darkgrey  = [ '#242021', 240 ]
+let s:red       = [ '#d75f5f', 167 ]
+let s:green     = [ '#afd7af', 151 ]
+let s:orange    = [ '#ff875f', 209 ]
+let s:golden    = [ '#d8caac', 223 ]
+let s:red_fg    = [ '#d75f5f', 167 ]
+let s:deeppink  = [ '#ff87ff', 213 ]
+let s:pink      = [ '#ffd7ff', 225 ]
+let s:purple    = [ '#af87d7', 140 ]
 
 let s:accents = s:red_fg
 
