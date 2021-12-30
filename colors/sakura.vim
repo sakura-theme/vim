@@ -74,7 +74,7 @@ let s:syntaxes = [
 		\ ["Debug", "pink", "none", "none"],
 		\ ["Error", "red", "none", "none"],
 		\ ["Todo", "orange", "none", "none"],
-		\ ["SpecialKey", "skyblue", "none", "none"],
+		\ ["SpecialKey", "grey", "none", "none"],
 		\ ["EndOfBuffer", "black", "none", "none"],
 		\ ["NonText", "grey", "none", "none"],
 		\ ["Directory", "lightpink", "none", "none"],
