@@ -1,6 +1,5 @@
 # sakura
-![2021-10-31_02-25](https://user-images.githubusercontent.com/52068717/139543054-800d06bd-f917-47eb-acae-84dff9aa4a6e.png)
-
+![2022-11-24_16-47](https://user-images.githubusercontent.com/52068717/203727649-ccbf4c45-d6ca-49db-93bf-f665ae82b8ae.png)
 
 # Installation
 Example (Vundle):   
