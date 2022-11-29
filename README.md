@@ -1,5 +1,14 @@
 # sakura
+<div align="center">
+<img src="https://user-images.githubusercontent.com/52068717/204436976-b5a5b59d-67ec-4be1-ad7c-dca3f1b64f9e.png">
+</div>
+
+sakura is a beautiful and easy-to-see color scheme for Vim which inspired by Japanese cherry blossoms.
+
 ![2022-11-24_16-47](https://user-images.githubusercontent.com/52068717/203727649-ccbf4c45-d6ca-49db-93bf-f665ae82b8ae.png)
+
+# Palette
+![palette](https://user-images.githubusercontent.com/52068717/204434824-4d6714d1-12fc-416c-9937-a47cd6447c4d.png)
 
 # Installation
 Example (Vundle):   
