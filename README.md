@@ -8,7 +8,7 @@ sakura is a beautiful and easy-to-see color scheme for Vim which inspired by Jap
 ![2022-11-24_16-47](https://user-images.githubusercontent.com/52068717/203727649-ccbf4c45-d6ca-49db-93bf-f665ae82b8ae.png)
 
 ## Palette
-![palette](https://user-images.githubusercontent.com/52068717/204434824-4d6714d1-12fc-416c-9937-a47cd6447c4d.png)
+![palette](https://user-images.githubusercontent.com/52068717/204466644-1c2b2b60-6ade-40ae-83af-7c5496a88b89.png)
 
 ## Installation
 Example (Vundle):   
