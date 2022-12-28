@@ -120,6 +120,7 @@ let s:syntaxes = [
 		\ ["StatusLineTermNC", "grey", "none", "none"],
 		\ ["Cursor", "black", "pink", "none"],
 		\ ["lCursor", "black", "pink", "none"],
+		\ ["MatchParen", "black", "lightpink", "none"],
 \]
 
 for syntax in s:syntaxes
