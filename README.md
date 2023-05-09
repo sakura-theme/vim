@@ -1,9 +1,6 @@
-# sakura
-<div align="center">
-<img src="https://user-images.githubusercontent.com/52068717/204438859-7870cfb4-33f9-45b5-93e2-f2750dff4439.png">
-</div>
+# sakura for Vim
 
-Sakura is a beautiful and easy-to-see color scheme for Vim which inspired by Japanese cherry blossoms.
+sakura theme for Vim.
 
 ![2022-11-24_16-47](https://user-images.githubusercontent.com/52068717/203727649-ccbf4c45-d6ca-49db-93bf-f665ae82b8ae.png)
 
@@ -15,7 +12,7 @@ Example (Vundle):
    
 Put this in your ```.vimrc```.
 ```
-Plugin 'is-hoku/sakura'
+Plugin 'sakura-theme/vim'
 ```
 Launch vim and run ```:PluginInstall```.
 
