@@ -2,10 +2,10 @@
 
 sakura theme for Vim.
 
-![2022-11-24_16-47](https://user-images.githubusercontent.com/52068717/203727649-ccbf4c45-d6ca-49db-93bf-f665ae82b8ae.png)
+![screenshot](https://github.com/sakura-theme/vim/blob/main/screenshot.png)
 
 ## Palette
-![palette](https://user-images.githubusercontent.com/52068717/204466644-1c2b2b60-6ade-40ae-83af-7c5496a88b89.png)
+![palette](https://github.com/sakura-theme/vim/blob/main/palette.png)
 
 ## Installation
 Example (Vundle):   
