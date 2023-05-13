@@ -1,6 +1,6 @@
 # sakura for Vim
 
-sakura theme for Vim.
+🌸 sakura theme for Vim
 
 ![screenshot](https://github.com/sakura-theme/vim/blob/main/screenshot.png)
 
@@ -17,7 +17,7 @@ Plugin 'sakura-theme/vim'
 Launch vim and run ```:PluginInstall```.
 
 ## Setting
-Set up True Color in ```.vimrc```   
+Set up True Color in ```.vimrc```.
 ```
 set termguicolors
 let &t_8f = "\<Esc>[38;2;%lu;%lu;%lum"
