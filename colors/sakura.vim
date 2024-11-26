@@ -121,6 +121,7 @@ let s:syntaxes = [
 		\ ["Cursor", "black", "pink", "none"],
 		\ ["lCursor", "black", "pink", "none"],
 		\ ["MatchParen", "lightpink", "black", "bold"],
+		\ ["@variable", "pink", "black", "none"],
 \]
 
 for syntax in s:syntaxes
